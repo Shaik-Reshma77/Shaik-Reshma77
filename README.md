@@ -512,9 +512,7 @@ A responsive food blogging website where users can explore and share delicious r
 # 🐍 Snake Eating My Contributions
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Shaik-Reshma77/Shaik-Reshma77/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
+<img src="https://raw.githubusercontent.com/Shaik-Reshma77/Shaik-Reshma77/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </div>
 
 ---
