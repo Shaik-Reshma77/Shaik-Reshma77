@@ -1,320 +1,681 @@
-<h1 align="center">Hi 👋, I'm Shaik Reshma Begum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+Hi 👋, I'm Shaik Reshma Begum
+</h1>
+
+<h3 align="center">
+Java Full Stack Developer | AI & ML Student | Web Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=CSE+(AI+%26+ML)+Student;Web+Developer;Machine+Learning+Enthusiast;Frontend+Developer;Always+Learning+New+Things">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;AI+%26+Machine+Learning+Student;Frontend+Developer;Open+Source+Learner;Always+Learning+New+Things" />
 </p>
-
-
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
-
-</p>
-
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-## About Me
-
-- 🎓 B.Tech Student in CSE (AI & ML) at Vignan's Lara Institute of Technology and Science
-- 💻 Passionate about Web Development and Machine Learning
-- 🌱 Currently learning Java, React.js, Node.js and AI/ML
-- 🚀 Working on Alumni Social Media Platform
-- 📚 Improving Data Structures and Algorithms skills
-- 🎯 Looking for Software Development Opportunities
-- ⚡ Always Learning New Technologies
-<br>
-
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-	<a href="mailto:reshmabegumshaik90@gmail.com">
-		<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/>
-	</a>
+<a href="mailto:reshmabegumshaik90@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-	<a href="https://github.com/Shaik-Reshma77">
-		<img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"/>
-	</a>
+<a href="https://github.com/Shaik-Reshma77">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-	<a href="https://www.linkedin.com/in/shaik-reshma-begum-97048b333/">
-		<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/>
-	</a>
+<a href="https://www.linkedin.com/in/shaik-reshma-begum-97048b333/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="reshmabegumshaik90@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Reshma77"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/shaik-reshma-begum-97048b333/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	
-
-	
-</p>
-
-
-
-## 🛠️ My Skills
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Web Technologies" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Database Managements" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
-</p>
-
-<br> 
 
 ---
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
+# 👩‍💻 About Me
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+🎓 Recently graduated with a Bachelor's Degree in Computer Science (AI & ML).
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+💻 Java Full Stack Developer
 
-----	
+🤖 AI & Machine Learning Enthusiast
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+💻 Passionate about developing scalable Full Stack Web Applications
 
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+🚀 Looking for Software Developer Opportunities
 
-----
-	
+📫 Email:
+**reshmabegumshaik90@gmail.com**
+
+---
+
+# 🚀 Tech Stack
+
+## Programming Languages
+
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+<img src="https://skillicons.dev/icons?i=java"/>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+<img src="https://skillicons.dev/icons?i=python"/>
 
-----
-	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+<img src="https://skillicons.dev/icons?i=c"/>
 
- 
-</details>
+<img src="https://skillicons.dev/icons?i=js"/>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
-	
-</details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/7oSkaaa">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-</details>
-
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+</p>
+
+## Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+
+</p>
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=eclipse"/>
+
+</p>
+
+<h2 align="left">🤖 Machine Learning</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+</p>
+<h2 align="left">🎯 Core Skills</h2>
+
+<p align="center">
+
+✔ Java Programming
+
+✔ Object-Oriented Programming (OOP)
+
+✔ Data Structures & Algorithms
+
+✔ SQL & Database Design
+
+✔ Frontend Development
+
+✔ Backend Development
+
+✔ REST API Development
+
+✔ Responsive Web Design
+
+✔ Machine Learning
+
+✔ Problem Solving
+
+✔ Team Collaboration
+
+✔ Git & GitHub
+
+</p>
+
+
+---
+
+# 💼 Internship Experience
+
+<div align="left">
+
+## ☕ Java Full Stack Development Intern
+
+### 🏢 Destination Career
+
+*Present*
+
+</div>
+
+### Responsibilities
+
+✔ Developing responsive web applications using Java technologies.
+
+✔ Learning and implementing Spring Boot concepts.
+
+✔ Working with HTML, CSS, JavaScript, SQL, JDBC, Servlets, and JSP.
+
+✔ Designing and integrating relational databases.
+
+✔ Building RESTful APIs.
+
+✔ Collaborating on real-world Full Stack Development projects.
+
+✔ Enhancing problem-solving and debugging skills.
+
+✔ Following Agile software development practices.
+
+---
+
+# 🚀 Featured Projects
+
+## 🏡 Real Estate Web Application
+
+A responsive real estate platform that allows users to browse, search, and explore property listings with an intuitive user interface.
+
+### Features
+
+✔ Property Listings
+
+✔ Property Search
+
+✔ Responsive Design
+
+✔ User-Friendly Interface
+
+✔ Database Connectivity
+
+### Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- SQLite
+
+---
+
+## 🧠 Predictive Analysis for Mental Health Instability Using Machine Learning Techniques
+
+A Machine Learning application developed to predict mental health instability using psychological and behavioral datasets.
+
+### Features
+
+✔ Data Preprocessing
+
+✔ Feature Engineering
+
+✔ Model Training
+
+✔ Prediction System
+
+✔ Data Visualization
+
+✔ Performance Evaluation
+
+### Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+
+---
+
+## 🍽️ Cooking Blog Web Application
+
+A responsive food blogging website where users can explore and share delicious recipes.
+
+### Features
+
+✔ Recipe Blog
+
+✔ Responsive Design
+
+✔ Category-wise Recipes
+
+✔ Easy Navigation
+
+✔ Attractive UI
+
+### Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- SQLite
+
+---
+
+# 📜 Certifications
+
+🏅 Java Programming
+
+🏅 SQL & Database Management
+
+🏅 Python Programming
+
+🏅 AI & Machine Learning
+
+🏅 Java Full Stack Development
+
+---
+
+# 🏆 Achievements
+
+✔ Successfully completed multiple academic and personal software development projects.
+
+✔ Developed Machine Learning applications using Python.
+
+✔ Built responsive Full Stack Web Applications.
+
+✔ Continuously improving Data Structures & Algorithms skills.
+
+✔ Passionate about solving real-world software problems.
+
+---
+
+# 📚 Currently Learning
+
+🌱 Spring Boot
+
+🌱 React.js
+
+🌱 REST APIs
+
+🌱 Hibernate
+
+🌱 JPA
+
+🌱 Microservices
+
+🌱 Docker
+
+🌱 GitHub Actions
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/Shaik-Reshma77">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🎯 Career Goals
+
+✨ Become a Professional Java Full Stack Developer.
+
+✨ Build scalable enterprise-level applications.
+
+✨ Contribute to Open Source Projects.
+
+✨ Learn Cloud Technologies.
+
+✨ Improve DSA & System Design.
+
+✨ Work on AI-powered applications.
+
+✨ Continuously learn and grow as a Software Engineer.
+
+---
+
+# 💬 Quote I Believe In
+
+> "Success doesn't come from what you do occasionally. It comes from what you do consistently."
+
+⭐️ From
+<b>Shaik Reshma Begum</b>
+
+</p>
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaik-Reshma77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-Reshma77&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shaik-Reshma77&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-Reshma77&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shaik-Reshma77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📌 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaik-Reshma77&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shaik-Reshma77&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shaik-Reshma77&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⏰ Productive Time
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shaik-Reshma77&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+---
+
+# 💻 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shaik-Reshma77&theme=tokyonight"/>
+
+</div>
+
+> **Note:** WakaTime stats will appear only if you use and configure WakaTime.
+
+---
+
+# 🚀 Open Source Journey
+
+✔ Passionate about building scalable applications
+
+✔ Learning modern Full Stack technologies
+
+✔ Interested in Open Source Contributions
+
+✔ Continuously improving DSA & Problem Solving
+
+✔ Exploring Spring Boot Ecosystem
+
+✔ Building AI-powered Applications
+
+✔ Always ready to learn something new
+
+---
+
+# 🌟 Developer Mindset
+
+> **"Code with passion. Learn with curiosity. Build with purpose."**
+
+---
+
+# 📚 Current Focus
+
+- ☕ Java Full Stack Development
+- 🌱 Spring Boot
+- ⚛ React.js
+- 🗄 MySQL
+- 🔗 REST APIs
+- 🏗 Microservices
+- 🧠 Machine Learning
+- 🐳 Docker (Learning)
+
+---
+
+# 🎯 2026 Goals
+
+✅ Crack a Software Developer Role
+
+✅ Master Spring Boot
+
+✅ Learn Docker & Kubernetes
+
+✅ Build More Full Stack Projects
+
+✅ Improve DSA Skills
+
+✅ Contribute to Open Source
+
+✅ Strengthen System Design Fundamentals
+
+---
+---
+
+# 🐍 Snake Eating My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shaik-Reshma77/Shaik-Reshma77/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+# 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ☕ Support My Work
+
+If you like my projects and repositories, don't forget to ⭐ them.
+
+Your support motivates me to build more amazing projects and contribute to the developer community.
+
+<div align="center">
+
+⭐ Star my repositories
+
+🍴 Fork interesting projects
+
+💡 Share ideas & suggestions
+
+🤝 Let's collaborate
+
+</div>
+
+---
+
+# 🚀 Currently Working On
+
+✔ Java Full Stack Development
+
+✔ Spring Boot Projects
+
+✔ REST API Development
+
+✔ Machine Learning Applications
+
+✔ Building Responsive Web Applications
+
+✔ Improving Data Structures & Algorithms
+
+---
+
+# 🌱 Future Learning Roadmap
+
+## Backend
+
+- Spring Security
+- JWT Authentication
+- Hibernate
+- JPA
+- Microservices
+- Docker
+- Kubernetes
+
+---
+
+## Frontend
+
+- React.js
+- Redux
+- Tailwind CSS
+- Next.js
+
+---
+
+## Database
+
+- MySQL
+- PostgreSQL
+- MongoDB
+
+---
+
+## Cloud
+
+- AWS
+- Azure
+- Firebase
+
+---
+
+## Testing
+
+- JUnit
+- Mockito
+- Selenium
+
+---
+
+# 📈 Profile Highlights
+
+🏆 Java Full Stack Developer
+
+🤖 Machine Learning Enthusiast
+
+🌐 Web Developer
+
+💻 Problem Solver
+
+🚀 Continuous Learner
+
+📚 Tech Explorer
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:reshmabegumshaik90@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shaik-Reshma77">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shaik-reshma-begum-97048b333">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shaik-Reshma77&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ❤️ Thanks for Visiting
+
+<div align="center">
+
+<h2>Thanks for visiting my GitHub Profile! 😊</h2>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Happy+Coding!;Keep+Learning!;Keep+Building!;Dream+Big+Code+Bigger!"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 "First, solve the problem. Then, write the code."
+
+### ⭐ If you like my work, consider giving a Star to my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
